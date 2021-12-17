@@ -1,0 +1,2 @@
+msiexec /i "C:\USB\googlechrome.msi" /qn /norestart
+"C:\USB\vlc.exe" /S /norestart
